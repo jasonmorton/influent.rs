@@ -11,5 +11,5 @@ keywords = ["influx", "influxdb"]
 license = "MIT"
 
 [dependencies]
-hyper = "0.6.8"
+hyper = "*"
 log = "0.3.1"
